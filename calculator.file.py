@@ -1,7 +1,20 @@
-def main():
-    x = int(input("What's x? "))
-    print("x squared is", square(x))
+print("Calculator")
 
+num1 = float(input("Enter your first number: "))
+operation = input("Choose +, -, * or /: ")
+num2 = float(input("Enter your second number: "))
 
-def square(n):
-    return pow(n, 2)
+if operation == "+":
+    print(num1 + num2)
+
+elif operation == "-":
+    print(num1 - num2)
+
+elif operation == "*":
+    print(num1 * num2)
+
+elif operation == "/":
+    print(num1 / num2)
+
+else:
+    print("Invalid operation")
