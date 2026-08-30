@@ -1,6 +1,6 @@
 import random
 
-choices = ("Head", "Tails")
+choices = ("Heads", "Tails")
 
 player = input("Heads or Tails:")
 
