@@ -2,7 +2,7 @@ guesses = 0
 
 import random
 
-number = random.randrange(1,2)
+number = random.randrange(1,100)
 
 print("Welcome to the number guessing game!You get five guesses, GOOD LUCK.")
 
