@@ -1,6 +1,10 @@
 #CONTENTS : Rock Paper Scissors
             Calculator
             Saying hello to person
+            Coin Toss simulator  1
+            Coin Toss Simulator 2
+            Coin Toss Simulator 2 (specified)
+            Number guessing game
 What they do: 
 Rock Paper Scissors - play a short game of rock paper scissors with the computer.
 Calculator - calculates two numbers (You can either add(+), subtract(-), divide(/) or multiply(x)).
